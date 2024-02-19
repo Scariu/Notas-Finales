@@ -1,0 +1,25 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+
+header {
+    margin: 40px !important;
+}
+
+.table-style {
+    width: calc(100% - 90px) !important; 
+    border: 1px solid black !important; 
+    margin: 40px !important;
+}
+
+.barra-gris {
+    background-color: slategrey !important; 
+    color: white !important; 
+    border: 1px solid black !important;
+}
+
+.borde-table {
+    border: 1px solid black !important;
+}
